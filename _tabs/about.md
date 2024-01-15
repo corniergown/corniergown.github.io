@@ -16,7 +16,6 @@ order: 4
     
 3. Creacion de contenido en blogs sobre temas tecnologicos
 
-
 ### Educación
 
 Actualmente estoy cursando la carrera de ingeniería en redes y continuamente busco oportunidades para ampliar mis conocimientos en programación y seguridad informática.
