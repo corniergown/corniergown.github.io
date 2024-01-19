@@ -1,4 +1,11 @@
-tremo:
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+Gerardo_H_Gomez:
   name: Gerardo H. Gomez
   twitter: corniergown
   url: https://github.com/corniergown
